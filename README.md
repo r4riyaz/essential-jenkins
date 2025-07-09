@@ -1,5 +1,5 @@
 # Jenkins Essential Training
-This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Jenkins Essential Training.
 
 ![Jenkins Essential Training][lil-thumbnail-url] 
 
@@ -16,15 +16,7 @@ Learn about the core functions of Jenkins, progressing from intermediate to more
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Follow any additional instructions in the README file for each lesson.
 
-### Instructor
-
-Michael Jenkins 
-                            
-Lead Software Engineer, Systems Reliability Engineer
-
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/michael-jenkins).
 
-[lil-course-url]: https://www.linkedin.com/learning/jenkins-essential-training-17420152
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2468076/2468076-1652724717815-16x9.jpg
