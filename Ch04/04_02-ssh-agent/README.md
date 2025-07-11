@@ -24,4 +24,5 @@
   - We can now check the agent connections logs to debug incase any issues.
 
 ## Build a Project using SSH agent
+  - Configure Global Build tool `Maven-3.8.4`
   - Use this [`Jenkinsfile`](./Jenkinsfile)
