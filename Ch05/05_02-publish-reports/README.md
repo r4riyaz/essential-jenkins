@@ -43,7 +43,9 @@ flowchart LR
 - [ ] The Jenkinsfile is written to be run on a Ubuntu server.
 - [ ] A Windows server may be able to run the project with modifications to the Jenkinsfile.  If you are using windows, fork this repository into your own GitHub account and make modifications as needed.
 - [ ] Python3 must be installed.
+    - `sudo apt-get install python3`
 - [ ] Python3 Virtual Environment library must be installed
+    - - `sudo apt-get install python3-venv`
 - [ ] A `git` executable must be installed.
 - [ ] The JUnit plugin must be installed.
 - [ ] The Code Coverage API plugin must be installed.
