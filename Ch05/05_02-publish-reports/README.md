@@ -45,7 +45,7 @@ flowchart LR
 - [ ] Python3 must be installed.
     - `sudo apt-get install python3`
 - [ ] Python3 Virtual Environment library must be installed
-    - - `sudo apt-get install python3-venv`
+    - `sudo apt-get install python3-venv`
 - [ ] A `git` executable must be installed.
 - [ ] The JUnit plugin must be installed.
 - [ ] The Code Coverage API plugin must be installed.
