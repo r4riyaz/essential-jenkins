@@ -12,7 +12,7 @@ Storing the Jenkinsfile in repo also allows development teams to use a GitOps ap
 - Create a new pipeline job on a Jenkins server.
 - Under `Pipeline`, select `Pipeline script from SCM`.
 - Under `SCM`, select `Git`.
-- Under `Repository URL`, enter the URL for this repo: `https://github.com/LinkedInLearning/essential-jenkins-2468076`
+- Under `Repository URL`, enter the URL for this repo: `https://github.com/r4riyaz/essential-jenkins`
 - You will not need to enter any credentials.
 - Under `Branch Specifier (blank for 'any')`, change `master` to `main`.
 - Leave the `Script Path` as the default.
