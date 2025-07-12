@@ -1,7 +1,7 @@
 # 04_02 SSH agent
 ## Connect to a node via SSH.
 ## Requirments:
-  - Serrver that is accessible from jenkins.
+  - Server that is accessible from jenkins.
   - User account and SSH key
 
 ## Steps to Configure SSH agent:
